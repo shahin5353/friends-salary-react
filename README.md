@@ -1,0 +1,1 @@
+# friends-salary-react
